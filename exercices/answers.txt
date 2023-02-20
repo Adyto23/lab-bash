@@ -12,4 +12,15 @@
 9. tail -3 lorem.txt
 10. echo "Homo homini lupus" >> lorem.txt
 11. start lorem.txt
-12. 
+12. sed -i 's/et/ET/g' at.txt
+13. git config user.name
+14. pdw
+15. git ls-files *.txt
+16. wc -l sed.txt
+    cat sed.txt | wc -l
+17. find -name "*lorem*" | wc -l
+
+18. now=`ady`
+    echo "Today is $now"
+19. $ mkdir $now 
+20. $ rmdir $now
